@@ -12,6 +12,8 @@ Este projeto verifica o horário do computador em tempo real e exibe uma imagem 
 ✔️ Altera a imagem de fundo para representar **manhã, tarde ou noite**  
 ✔️ Interface simples e responsiva  
 
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5** → Estrutura da página
