@@ -1,0 +1,42 @@
+body{
+    background-color: #1e54eb;
+    font-family: "Quicksand", serif;
+    height: 100vh; 
+    margin: 0; 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 10px 10px 10px #00000067;
+
+    display: flex;
+    flex-direction: column; 
+    gap: 5px; 
+}
+
+div {
+    font-size: 20px;
+    text-align: center;
+    padding: 8px;
+}
+
+img{
+    width: 250px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
